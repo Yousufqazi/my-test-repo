@@ -1,4 +1,6 @@
 
 let great = "hello";
 
-console.log(great);
+let username = "sir ameen"
+
+console.log(great + "" + username);
